@@ -13,7 +13,7 @@ Well, I’ve seen some people trying to have fun with this idea on TikTok but st
 
 So, I'm rolling out a real script that works.
 
-Worth mentioning, I’m not using C language to avoid enabling misuse by pseudo-hackers. If you’re a "hacker," you already know how to do it, right? Lol.
+Worth mentioning, I’m not using a low-level language to avoid enabling misuse by pseudo-hackers. If you’re a "hacker," you already know how to do it, right? Lol.
 
 And yeah, if you work at a call center and try to use this script on elderly American folks, your favorite cow will die today and then haunt you every night. So you’ll be dealing with nightmares.
 
